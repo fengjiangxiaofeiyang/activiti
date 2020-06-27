@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="411f0f60-677d-469d-8eea-cfff1efdb4be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="BpmnFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cRFNx3AZbZWzL03ssJk5bt8OHE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/xiaofeiyang/activiti" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaofeiyang.activiti" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git3\activiti\src\main\java\com\xiaofeiyang\activiti" />
+      <recent name="E:\git3\activiti\src\main\java\com\xiaofeiyang\activiti\util" />
+      <recent name="E:\git3\activiti\src\main\java\com\xiaofeiyang\activiti\cadidate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProcessVariablesTest (1)">
+    <configuration name="ActivitiDeployment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaofeiyang.activiti.demo.ActivitiDeployment" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaofeiyang.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaofeiyang.activiti.demo.ActivityTask" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaofeiyang.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssigneeUEL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaofeiyang.activiti.demo.AssigneeUEL" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaofeiyang.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessVariablesTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaofeiyang.activiti.cadidate.ProcessVariablesTest" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaofeiyang.activiti.cadidate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessVariablesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaofeiyang.activiti.processvariables.ProcessVariablesTest" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaofeiyang.activiti.processvariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProcessVariablesTest (1)" />
+        <item itemvalue="Application.ProcessVariablesTest" />
+        <item itemvalue="Application.ActivityTask" />
+        <item itemvalue="Application.AssigneeUEL" />
+        <item itemvalue="Application.ActivitiDeployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="411f0f60-677d-469d-8eea-cfff1efdb4be" name="Default Changelist" comment="" />
+      <created>1590483462732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590483462732</updated>
+      <workItem from="1590483476651" duration="2339000" />
+      <workItem from="1590991954948" duration="2731000" />
+      <workItem from="1590996993012" duration="192000" />
+      <workItem from="1590997238623" duration="7831000" />
+      <workItem from="1591063871989" duration="805000" />
+      <workItem from="1591107809196" duration="360000" />
+      <workItem from="1591168291262" duration="3648000" />
+      <workItem from="1591193832317" duration="640000" />
+      <workItem from="1591268661763" duration="1967000" />
+      <workItem from="1591278924780" duration="1569000" />
+      <workItem from="1591309379936" duration="1973000" />
+      <workItem from="1591329197587" duration="4870000" />
+      <workItem from="1591435087391" duration="1444000" />
+      <workItem from="1591599480182" duration="1116000" />
+      <workItem from="1591600616163" duration="230000" />
+      <workItem from="1591601936847" duration="420000" />
+      <workItem from="1591602396555" duration="1644000" />
+      <workItem from="1591607906458" duration="2260000" />
+      <workItem from="1591670973207" duration="67000" />
+      <workItem from="1591671104953" duration="66000" />
+      <workItem from="1591671346873" duration="11044000" />
+      <workItem from="1591777881221" duration="1980000" />
+      <workItem from="1591785881576" duration="287000" />
+      <workItem from="1591796518596" duration="2570000" />
+      <workItem from="1591881877574" duration="129000" />
+      <workItem from="1591922524051" duration="6812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaofeiyang/activiti/demo/ActivitiHistory.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaofeiyang/activiti/demo/ActivitiHistory.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaofeiyang/activiti/cadidate/ProcessVariablesTest.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
